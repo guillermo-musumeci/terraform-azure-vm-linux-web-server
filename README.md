@@ -1,2 +1,3 @@
-# terraform-azure-vm-linux
-Deploying a Ubuntu Linux VM in Azure using Terraform
+#Terraform Azure Linux VM with Web Server
+
+Deploy a Ubuntu Linux VM with Apache Web Server in Azure using Terraform
