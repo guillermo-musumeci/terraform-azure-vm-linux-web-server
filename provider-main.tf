@@ -9,5 +9,5 @@ terraform {
 
 # Configure the Azure provider
 provider "azurerm" { 
-  environment     = "public"
+  environment = "public"
 }
